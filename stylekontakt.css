@@ -1,0 +1,180 @@
+body
+{
+	background-color:#e6e3e3;
+}
+
+#container
+{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	font-family: 'Dosis', sans-serif;
+	font-size:20px;
+	height:100%;
+}
+
+/* ostylowanie logo do index.html*/
+#logo
+{
+	margin-top:20px;
+	margin-bottom:20px;
+	color:#0d0b0a;
+	font-family: 'Dancing Script', cursive;
+	font-size:70px;
+	letter-spacing:4px;	
+	text-align: center;
+}
+
+#logo .sygnet {
+	display:block;
+	text-align:center;
+	margin:0 auto;
+	}
+
+		
+/* ostylowanie logo do index-v2.html*/
+#logo1 {
+	margin-top:20px;
+	margin-bottom:20px;
+}
+	
+	#logo1 a {
+	color:rgba(138, 40, 53, 1);
+	font-family: 'Dancing Script', cursive;
+	font-size:70px;
+	letter-spacing:4px;	
+	display:inline-flex;
+	align-items:center;
+	text-decoration: none;
+	}
+	
+	#logo1 a:hover {
+	color:rgba(138, 40, 53, 0.7);
+	}
+	
+.sygnet1 {
+	margin-right: 30px;
+	margin-left: 80px;
+}
+
+#menu
+{
+	display: flex;
+	margin: auto;
+	background-color:#cccbca;
+	color:black;
+	font-family: 'Cormorant Garamond', serif;
+	font-size:15px;
+	text-align:center;
+}
+
+
+.option
+{
+	margin: auto;
+	min-width:50px;
+	height:8px;
+	font-size:15px;
+	padding:20px;
+	list-style-type: none;	
+}
+.option:hover
+{
+	background-color:#ab9a9a;
+	cursor:pointer;
+}
+.link
+{
+	margin: auto;
+	color: inherit;
+	text-decoration: inherit;
+}
+
+#tresc
+{
+	background-color:#DAD3D2;
+	color:black;
+	padding:20px;
+	margin-bottom:25px;
+}
+
+#content1
+{
+	
+	display: inline-block;
+	margin-top:20px;
+}
+
+#obrazek
+{
+	padding:40px;
+	float:left;
+}
+#text
+{
+    float:right;
+	padding:30px;
+	width:700px;
+    margin:0;	
+}
+#content2
+{
+	display: inline-block;
+	margin-top:20px;
+}
+#obrazek2
+{
+	
+	float:left;
+	padding:40px;
+}
+#text2
+{
+  
+    float:right;
+	padding:30px;
+	width:700px;
+    margin:0;	
+}
+#content3
+{
+	display: inline-block;
+	margin-top:30px;
+}
+#obrazek3
+{
+	
+	float:left;
+	padding:40px;
+}
+#text3
+{
+  
+    float:right;
+	padding:30px;
+	width:700px;
+    margin:0;	
+}
+#footer
+{
+	background-color:#a3a1a0;
+	height: 35px;
+	color:white;
+	padding:5px;
+	font-size:10px;
+	letter-spacing:1px;
+	margin:auto;
+}
+#fb
+{
+	float:right;
+	padding-right:20px;
+	padding-top:5px;
+	padding-bottom: 5px;
+}
+#tekst_footer
+{
+	float:left;
+	padding-left:15px;
+	margin: auto;
+}

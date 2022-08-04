@@ -1,0 +1,146 @@
+body
+{
+background-color:#e6e3e3;
+
+}
+
+#container
+{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	font-family: 'Dosis', sans-serif;
+	font-size:20px;
+	height:100%;
+}
+#logo
+{
+	color:#0d0b0a;
+	font-family: 'Dancing Script', cursive;
+	margin-top:100px;
+	margin-bottom:20px;
+	font-size:70px;
+	letter-spacing:4px;
+	text-align:center;
+	
+}
+
+#menu
+{
+	background-color:#cccbca;
+	color:black;
+	font-family: 'Cormorant Garamond', serif;
+	
+	text-align:center;
+	padding-left:60px;
+	padding-left:190px;
+}
+
+
+.option
+{
+	float:left;
+	min-width:50px;
+	height:8px;
+	font-size:18px;
+	padding:20px;
+	margin-left:10px;
+	margin-right:10px;
+	
+	
+}
+.option:hover
+{
+	background-color:#ab9a9a;
+	cursor:pointer;
+	height:18px;
+}
+#tresc
+{
+	background-color:#DAD3D2;
+	color:black;
+	padding:20px;
+	margin-bottom:25 px;
+	
+	
+	
+}
+#content1
+{
+	background: url(tlocontent1.jpg);
+	background-size:100%;
+	margin:auto;
+	width:1000px;
+	display: inline-block;
+	margin-top:20px;
+}
+#obrazek
+{
+	padding-left:50px;
+	width:400px;
+	float:left;
+
+}
+#text
+{
+    float:right;
+	padding:20px;
+	width:500px;
+    margin:10;	
+	
+}
+#content2
+{
+	
+	background-size:100%;
+	margin:auto;
+	width:1000px;
+	display: inline-block;
+	margin-top:10px;
+}
+#obrazek2
+{
+	padding-left:50px;
+	width:400px;
+	height:120px;
+	float:right;
+
+}
+#text2
+{
+    float:left;
+	padding:10px;
+	width:500px;
+    margin:0;	
+	
+}
+#content3
+{
+	background-size:100%;
+	
+	width:1000px;
+	
+}
+	#text3
+{
+    text-align:center;
+	margin-top:200px;
+	margin-bottom:50px;
+	
+}
+#footer
+{
+	background-color:#a3a1a0;
+	color:white;
+	padding:15px;
+	font-size:10px;
+	letter-spacing:1px;
+}
+#fb
+{
+	float:right;
+	padding-right:20px;
+	
+	
+	
+}
